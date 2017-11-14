@@ -3,7 +3,7 @@ Fast Similarity Digest Search
 
 The FSDS is a similarity digest search strategy aiming to perform queries efficiently with approximate matching tools, more especifically with TLSH (https://github.com/trendmicro/tlsh).
 
-For more information about this strategy, see paper: Fast Similarity Digest Search: A new strategy for performing queries efficiently with approximate matching.
+For more information about this strategy, see paper: Fast Similarity Digest Search: A new strategy for performing queries efficiently with approximate matching (https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/20171109_ANAIS_SBSEG_2017_FINAL_E-BOOK.pdf).
 
 #Running FSDS (linux)
 
