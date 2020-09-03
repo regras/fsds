@@ -5,6 +5,8 @@ The FSDS is a similarity digest search strategy aiming to perform queries effici
 
 For more information about this strategy, see paper: Fast Similarity Digest Search: A new strategy for performing queries efficiently with approximate matching (https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/20171109_ANAIS_SBSEG_2017_FINAL_E-BOOK.pdf).
 
+For access to the source code, please, send an email to: vhgmoia@dca.fee.unicamp.br.
+
 #Running FSDS (linux)
 
 1. Install the TLSH tool.
